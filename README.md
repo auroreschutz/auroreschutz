@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://auroreschutz.fr/img/avatarsite.png"  />
+  <img width="500" src="https://auroreschutz.fr/img/avatarsite3.png"  />
 </div>
 
 ###
@@ -7,7 +7,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/aurore-schutz-85701b150/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>  <a href="https://auroreschutz.fr/" target="_blank">
+  </a>  
+  <a href="https://auroreschutz.fr/" target="_blank">
     <img src="https://github.com/auroreschutz/AboutMe/assets/97412286/5f5c0a0a-5830-4488-a117-85822d59271e" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -22,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a learning frontend dev & UX/UI designer from France ✨<br><br> ⚛️ I'm currently learning React<br>💻 I’m currently working on an art project website <br>🖌️ In my free time I like to draw, design, play videos games & other creative hobbies</p>
+<p align="left">I'm a learning frontend developer & web designer from France ✨<br><br> ⚛️ I'm currently learning React & Nextjs<br>💻 I’m currently working on a mini game with Phaser & a fast food SPA with React<br>🖌️ In my free time I like to draw, design, play videos games & other creative hobbies</p>
 
 ###
 
@@ -41,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -50,8 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="notion"  />
 </div>
 
 ###
