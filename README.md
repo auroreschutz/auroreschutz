@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>  
   <a href="https://auroreschutz.fr/" target="_blank">
-    <img src="https://github.com/auroreschutz/AboutMe/assets/97412286/5f5c0a0a-5830-4488-a117-85822d59271e" height="25" alt="linkedin logo"  />
+    <img src="https://github.com/auroreschutz/AboutMe/assets/97412286/5f5c0a0a-5830-4488-a117-85822d59271e" height="25" alt="portfolio" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a learning frontend developer & web designer from France ✨<br><br> ⚛️ I'm currently learning React & Nextjs<br>💻 I’m currently working on a mini game with Phaser & a fast food SPA with React<br>🖌️ In my free time I like to draw, design, play videos games & other creative hobbies</p>
+<p align="left">I'm a learning frontend developer & web designer from France ✨<br><br> ⚛️ I'm currently learning React<br>💻 I’m currently working on small fast-food page with React<br>🖌️ In my free time I like to draw, design, play videos games & other creative hobbies</p>
 
 ###
 
