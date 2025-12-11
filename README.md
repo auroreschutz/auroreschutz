@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="500" src="https://auroreschutz.fr/img/avatarsite3.png"  />
+ 
 </div>
 
 ###
